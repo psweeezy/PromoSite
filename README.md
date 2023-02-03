@@ -1,2 +1,2 @@
-# PromoSite
-Promotional Site for thesis project
+# Thesis Tech
+Technology requirements for thesis project.
